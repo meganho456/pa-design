@@ -6,7 +6,7 @@ Interactive floor plan viewer for a proposed mixed-use condo/apartment building 
 
 ## About the project
 
-This is a design by SJA Development LLC / Design Division for a mixed-use building at 4192 El Camino Real, Palo Alto, CA. The project includes ground-floor amenities, two commercial units, and twelve residential apartments across four floors.
+This is a design by Watten LLC / Design Division for a mixed-use building at 4192 El Camino Real, Palo Alto, CA. The project includes ground-floor amenities, two commercial units, and twelve residential apartments across four floors.
 
 | Floor | Program |
 |---|---|
@@ -29,7 +29,7 @@ Total residential units: **12** &nbsp;·&nbsp; Commercial units: **2** &nbsp;·&
 
 ## Project info
 
-- Developer: SJA Development LLC
-- Job No.: 2013-111
-- Drawn by: Wilson Ng
-- Date: 11/7/15
+- Developer: Watten LLC
+- Job No.: 2026-111
+- Drawn by: Megan Ho
+- Date: 5/31/2026
